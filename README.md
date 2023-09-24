@@ -54,7 +54,6 @@ Using Databases with Python week 5 quiz,
 
 Using Databases with Python download,
 
-
 Using Databases with Python free download,
 
 Using Databases with Python Michigan,
