@@ -14,6 +14,7 @@ Week 5: Databases and Visualization
 University of Michigan
 Instructor: Dr. Chuck
 
+
 It covers:
 
 Using Databases with Python Coursera answers,
